@@ -3,9 +3,9 @@ Description: Developed a web-based tool to generate strong random passwords base
 
 Features:
 
-Customizable password length
+Customizable password length;
 Options to include/exclude:
-Uppercase letters
-Lowercase letters
-Numbers
-Symbols
+Uppercase letters,
+Lowercase letters,
+Numbers,
+Symbols.
